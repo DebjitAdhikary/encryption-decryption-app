@@ -17,6 +17,9 @@ Encryption :
 
 Decryption :
 1.choose the .enc file to decrypt
+
 2.give the same key which is used at the time of encryption
+
 3.choose the correct file type of the actual file 
+
 4.press decrypt
